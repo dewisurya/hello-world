@@ -2,8 +2,7 @@
 something-something
 
 Hello world
-something is new
-something is old
-being old is precious
+I am Dewi, coffee drinker. 
+I prefer Tea too,
+ common person
 
-lav yah
